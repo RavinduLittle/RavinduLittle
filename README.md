@@ -1,17 +1,17 @@
 <div align="center">
   <p><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="180"></p>
   
-  <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RavinduLittle&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
-  <h4>Hi, I'm Dulanga Dasanayake</h4>
-  <h4>Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from LK. Here you'll find some of my projects and contributions.</h4>
+  <h4>Hi, I'm Ravindu Atthanayake</h4>
+  <h4>Welcome to my GitHub profile! I'm Ravindu Atthanayake, a front-end developer and UI/UX designer from LK. Here you'll find some of my projects and contributions.</h4>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=DulangaDasanayake&theme=algolia&show_icons=true"/>&nbsp&nbsp
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulangaDasanayake&layout=compact&langs_count=6&theme=algolia"/>
+    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=RavinduLittle&theme=algolia&show_icons=true"/>&nbsp&nbsp
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduLittle&layout=compact&langs_count=6&theme=algolia"/>
   </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
