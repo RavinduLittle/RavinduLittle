@@ -10,8 +10,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-   <!-- <img height="150rem" src="https://github-readme-stats-fast.vercel.app/api?username=iamdulanga&show_icons=true&theme=merko"/>
-<img height="150rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamdulanga&hide_progress=true&theme=merko"/> -->
+    <img height="150rem" src="https://github-readme-stats-fast.vercel.app/api?username=RavinduLittle&show_icons=true&theme=merko"/>
+<img height="150rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RavinduLittle&hide_progress=true&theme=merko"/>
   </div> 
 
 
