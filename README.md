@@ -9,10 +9,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- <div align="center">
-    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=RavinduLittle&theme=algolia&show_icons=true"/>&nbsp&nbsp
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduLittle&layout=compact&langs_count=6&theme=algolia"/>
-  </div> -->
+<div align="center">
+   <img height="150rem" src="https://github-readme-stats-fast.vercel.app/api?username=iamdulanga&show_icons=true&theme=merko"/>
+<img height="150rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamdulanga&hide_progress=true&theme=merko"/>
+  </div> 
 
 
 - Languages: ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
