@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=190&section=header&text=Ravindu%20Atthanayake&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile banner" />
   <h3>Front-end Developer · UI/UX Designer</h3>
   <p>Building clean, responsive, and delightful digital experiences from Sri Lanka 🇱🇰</p>
-  <a href="https://github.com/RavinduLittle"><img src="https://komarev.com/ghpvc/?username=RavinduLittle&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/RavinduLittle"><img src="[https://komarev.com/ghpvc/?username=RavinduLittle&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge](https://avatars.githubusercontent.com/u/132191707?v=4)" alt="Profile views" /></a>
 </div>
 
 <br>
